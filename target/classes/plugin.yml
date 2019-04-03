@@ -1,0 +1,3 @@
+name: TheDatabase
+version: 1.0-SNAPSHOT
+main: com.runicholdings.thedatabase.TheDatabase
